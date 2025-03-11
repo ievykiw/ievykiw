@@ -32,7 +32,8 @@ Ciência de Dados | Desenvolvimento de Sistemas
     • Atual Ligante da Liga Acadêmica de Ciência de Dados | <a href="https://github.com/ladata-ufs"><b>LADATA</b></a><br>
     • Sigo apredendo e me especializando as áreas de <b>Ciência de Dados</b> e <b>Desenvolvimento de Sistemas/Softwares</b><br>
     • Apaixonado por projetos de automação com <b>Arduíno</b><br>
-    • Experiência em Produção e <b>Edição de Vídeos e Imagens</b><br>
+    • Experiência em <b>Produção</b> e <b>Edição de Vídeos e Imagens</b> e em <b>Meta/Google ADS</b><br>
+    
   </p>
 </div>
 
