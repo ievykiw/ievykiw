@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Montserrat&color=FFFFFF&lines=Olá,+me+chamo+Michael+Alves+d.+Santos!;Hi+i'm+Michael+Alves+d.+Santos!;Hola,+mi+nombre+es+Michael+Alves+d.+Santos!&center=true&height=100&width=500&hide_border=true" style="color=#e6ac4d">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Montserrat&color=FFFFFF&lines=Olá,+me+chamo+Michael+Alves+d.+Santos!;Hi+i'm+Michael+Alves+d.+Santos!;Hola,+mi+nombre+es+Michael+Alves+d.+Santos!&center=true&height=100&width=500&hide_border=true">
   </a>
   <br>
 Graduando em Sistemas de Informação <br>
